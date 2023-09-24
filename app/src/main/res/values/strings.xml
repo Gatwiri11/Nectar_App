@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">Nectar</string>
+
+    <!-- Bottom Navigation Title -->
+    <string name="menu_shop">Shop</string>
+    <string name="menu_explore">Explore</string>
+    <string name="menu_cart">Cart</string>
+    <string name="menu_about">About</string>
+    <string name="image_on_boarding">Image On Boarding</string>
+    <string name="welcome_to_store">Welcome to Farmers Palace</string>
+    <string name="desc_welcome">Where you get all your farm produce</string>
+    <string name="get_started">Get Started</string>
+    <string name="search_store">Search Product</string>
+    <string name="search_category">Search Category</string>
+    <string name="image_slider">Image Slider</string>
+    <string name="image_product">Image Product</string>
+    <string name="add">Add</string>
+    <string name="image_category">Image Category</string>
+    <string name="arrow_right">Arrow Right</string>
+    <string name="image_favorite">Image Favorite</string>
+    <string name="product_detail">Product Detail</string>
+    <string name="nutritions">Nutritions</string>
+    <string name="review">Review</string>
+    <string name="add_to_cart">Add To Cart</string>
+    <string name="logo_app">Logo App</string>
+    <string name="shop">Shop</string>
+    <string name="image_location">Image Location</string>
+    <string name="sample_country">Kenya</string>
+    <string name="see_all">See All</string>
+    <string name="exclusive_offer">Exclusive Offer</string>
+    <string name="best_selling">Best Selling</string>
+    <string name="find_products">Find Products</string>
+    <string name="image_profile">Image Profile</string>
+    <string name="name_profile">Hari Agus Widakdo</string>
+    <string name="email_profile">haryagus97@gmail.com</string>
+    <string name="image_about">Image About</string>
+    <string name="logout">Logout</string>
+    <string name="image_delete">Image Delete</string>
+    <string name="my_cart">My Cart</string>
+    <string name="image_content_empty">Image Content Empty</string>
+    <string name="oops_no_data">Ooops! No Data</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="title_activity_fruits_screen">FruitsScreen</string>
+    <string name="title_activity_vegetable_screen">VegetableScreen</string>
+    <string name="title_activity_veg_screen">VegScreen</string>
+    <string name="title_activity_meatand_fish_screen">MeatandFishScreen</string>
+    <string name="title_activity_cereals_screen">CerealsScreen</string>
+    <string name="title_activity_dairyand_eggs_screen">DairyandEggsScreen</string>
+    <string name="title_activity_others">others</string>
+</resources>
